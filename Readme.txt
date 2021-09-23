@@ -1,0 +1,1 @@
+Galeria de Imagens: 18 imagens, 3 por coluna, totalmente responsível. Ao passar o mouse sobre, aplicar efeito de sombreamento nas bordas.

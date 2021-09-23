@@ -1,0 +1,29 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 900px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;   
+}
+
+.img {
+    height: 300px;
+    width:200px;
+    margin: 5px;
+}
+
+.img:hover {
+    box-shadow: 0 0 40px black;
+}
